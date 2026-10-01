@@ -1,0 +1,4 @@
+.env.local
+venv/
+.DS_Store
+lustrous-bond-443208-d7-9cb575fc28db.json
